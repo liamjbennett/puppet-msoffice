@@ -131,7 +131,7 @@ class msoffice::params {
         },
         'Standard' => {
           'products' => ['Word','Excel','Powerpoint','OneNote','Outlook','Publisher'],
-          'office_product' => 'Standardr',
+          'office_product' => 'Standard',
         },
         'Professional' => {
           'products' => ['Word','Excel','Powerpoint','OneNote','Outlook','Access'],
