@@ -3,3 +3,4 @@ fixtures:
     stdlib:  https://github.com/puppetlabs/puppetlabs-stdlib.git
     powershell:  https://github.com/puppetlabs/puppetlabs-powershell.git
     win_facts:  https://github.com/liamjbennett/puppet-win_facts.git
+    windows_account_names:  https://github.com/natemccurdy/windows_account_names.git

@@ -30,6 +30,10 @@
     {
       "name": "liamjbennett/win_facts",
       "version_requirement": ">= 0.0.2 < 2.0.0"
+    },
+    {
+      "name": "nate/windows_account_names",
+      "version_requirement": ">= 2.0.0"
     }
   ],
   "requirements": [
